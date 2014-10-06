@@ -1,0 +1,15 @@
+The system is simple,it only has a 
+adminstrator.
+The name of adminstrator is a,
+and the password is also a.
+The login page is in admin/login.jsp
+The operating envrionmet is tomcat6.
+
+The sql file is in SQL/Shopping.sql
+
+
+运行环境 tomcat6
+系统简单,只有一个管理员。   
+默认管理员账号密码分别为 a   a
+管理员登陆页面为 admin/login.jsp
+数据库文件在 SQL/Shopping.sql

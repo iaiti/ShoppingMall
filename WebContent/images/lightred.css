@@ -1,0 +1,24 @@
+.lightred_item_box {
+	BORDER-BOTTOM: #ff9f9f 4px solid; BORDER-LEFT: #ff9f9f 4px solid; PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; WIDTH: 966px; PADDING-RIGHT: 3px; OVERFLOW: hidden; BORDER-TOP: #ff9f9f 4px solid; BORDER-RIGHT: #ff9f9f 4px solid; PADDING-TOP: 3px
+}
+.item_top .item .lightred_on {
+	HEIGHT: 22px; OVERFLOW: hidden
+}
+.item_top .item .lightred_on FONT {
+	LINE-HEIGHT: 22px; PADDING-LEFT: 15px; DISPLAY: block; BACKGROUND: url(lightred.gif) no-repeat left -23px; FLOAT: right; HEIGHT: 22px; FONT-SIZE: 12px
+}
+.item_top .item .lightred_on FONT A {
+	PADDING-RIGHT: 15px; DISPLAY: block; BACKGROUND: url(lightred.gif) no-repeat right -23px
+}
+.item_top .item .lightred_cur {
+	HEIGHT: 22px; OVERFLOW: hidden
+}
+.item_top .item .lightred_cur FONT {
+	TEXT-ALIGN: right; LINE-HEIGHT: 22px; PADDING-LEFT: 15px; DISPLAY: block; BACKGROUND: url(lightred.gif) no-repeat left 0px; FLOAT: right; HEIGHT: 22px; FONT-SIZE: 12px
+}
+.item_top .item .lightred_cur FONT A {
+	PADDING-RIGHT: 15px; DISPLAY: block; BACKGROUND: url(lightred.gif) no-repeat right 0px
+}
+.item_top .item .li FONT {
+	MARGIN: 0px 10px; WIDTH: 3px; DISPLAY: block; BACKGROUND: url(lightred.gif) no-repeat left -44px; FLOAT: right; HEIGHT: 22px
+}

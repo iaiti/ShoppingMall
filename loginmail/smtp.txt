@@ -1,0 +1,47 @@
+连接服务器  telnet localhost 25
+神奇的 东西  竟然要用base64
+编码 坑爹的  弄了一个早上的结果如此  但是 至少现在能用服务器收发邮件  还有用户登录也行了 
+名字和密码全部用成base64
+
+
+ehlo flx
+auth login
+
+admin 
+admin
+YWRtaW4=
+YWRtaW4=
+postmaster
+cG9zdG1hc3Rlcg==
+cXdlMTIz
+
+tttt123
+qwe123
+mail from: <tttt123@163.com>
+rcpt to: <aaa@163.com>
+
+data
+from: <tttt123@163.com>
+to: <aaa@163.com>
+subject: test
+
+咱们分手吧
+
+quit
+
+aaa
+qwe123
+YWFh
+cXdlMTIz
+
+mail from: <aaa@163.com>
+rcpt to: <tttt123@163.com>
+
+data
+from: <aaa@163.com>
+to: <tttt123@163.com>
+subject: test
+
+咱们buyao分手吧
+	
+.
